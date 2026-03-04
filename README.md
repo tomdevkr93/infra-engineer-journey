@@ -32,17 +32,25 @@
 ### 강의
 
 - [Stephane Maarek — AWS SAA](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) (유데미)
+- [Tutorials Dojo — SAA 모의시험](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03/) (유데미)
+- [Zeal Vora — Terraform Associate](https://www.udemy.com/course/terraform-beginner-to-advanced/) (유데미)
 - [KodeKloud — CKA](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (유데미)
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) (유튜브)
 - [널널한 개발자](https://www.youtube.com/@nullnull_not_eq_null) (유튜브)
 
 ### 공식 문서
 
-- [Docker Docs](https://docs.docker.com) | [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) | [Kubernetes Docs](https://kubernetes.io/docs) | [Prometheus Docs](https://prometheus.io/docs)
+- [Linux Journey](https://linuxjourney.com) | [Docker Docs](https://docs.docker.com) | [Python Tutorial](https://docs.python.org/3/tutorial) | [boto3 Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+- [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) | [GitHub Actions](https://docs.github.com/en/actions) | [Kubernetes Docs](https://kubernetes.io/docs) | [Helm Docs](https://helm.sh/docs)
+- [Prometheus Docs](https://prometheus.io/docs) | [Grafana Docs](https://grafana.com/docs/grafana/latest)
 
 ### 실습
 
 - [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) | [KillerCoda](https://killercoda.com) | [killer.sh](https://killer.sh)
+
+### 참고
+
+- [Google SRE Book](https://sre.google/sre-book) | [PagerDuty Incident Guide](https://response.pagerduty.com) | [44bits.io](https://44bits.io)
 
 ---
 
