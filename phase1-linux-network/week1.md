@@ -1,4 +1,4 @@
-# Phase 1. 리눅스 + 네트워크 — 1주차
+# Phase 1. 리눅스 + 네트워크
 
 > ### 학습 목표
 
@@ -25,3 +25,14 @@
   - [x] chmod, chown, umask, useradd 연습
   - [x] ps aux, top, htop, kill 연습
   - [x] systemctl start/stop/enable nginx + journalctl -u nginx -f
+
+
+---
+
+### 3/16 (월) — SSH + 쉘 스크립팅 + 로그
+
+- [x] Bash 스크립팅 가이드: https://mug896.github.io/bash-shell (변수, 조건문, 반복문만)
+- 실습
+  - [x] SSH 키 생성 → 원격 접속 → ~/.ssh/config 설정
+  - [x] 셸 스크립트: 디스크 80% 초과 시 경고 출력
+  - [x] /var/log/syslog 분석, tail -f, grep 필터링
